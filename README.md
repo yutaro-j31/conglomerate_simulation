@@ -1,0 +1,2 @@
+# conglomerate_simulation
+リアル経済シミュレーションゲーム
